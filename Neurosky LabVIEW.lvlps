@@ -1,0 +1,39 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "38,13,599,385"
+
+[AB_Cache_{B02D868D-87E3-4755-A151-41527A7BCF94}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "b013e34a153d001235edab9bfb69342e"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] = "/C/Users/Isaias/Desktop/Neurosky/build/Neurosky.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/Isaias/Desktop/Neurosky/build/Neuro"
+Cache_GenFile[1][Path] Line0002 = "sky.aliases"
+Cache_GenFile[2][Path] = "/C/Users/Isaias/Desktop/Neurosky/build/Neurosky.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Users/Isaias/Desktop/Neurosky/build/data/"
+Cache_GenFile[3][Path] Line0002 = "lvanlys.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{D01FE776-3E09-460A-BD61-081913EF8B7F}"
+Cache_GenGUID[1][String] = "{BD4D4F0E-CC59-4C99-8B42-765713E7116A}"
+Cache_GenGUID[2][String] = "{02C1BC32-D226-454B-9CE5-0636698D3484}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] = "/C/Users/Isaias/Desktop/Neurosky/build"
+
+[AB_Cache_{E2904423-F964-4AEE-B4B4-6A9A24446733}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "b013e34a153d001235edab9bfb69342e"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] = "/C/Users/Isaias/Desktop/Neurosky/build/Neurosky.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/Isaias/Desktop/Neurosky/build/Neuro"
+Cache_GenFile[1][Path] Line0002 = "sky.aliases"
+Cache_GenFile[2][Path] = "/C/Users/Isaias/Desktop/Neurosky/build/Neurosky.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Users/Isaias/Desktop/Neurosky/build/data/"
+Cache_GenFile[3][Path] Line0002 = "lvanlys.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{D01FE776-3E09-460A-BD61-081913EF8B7F}"
+Cache_GenGUID[1][String] = "{BD4D4F0E-CC59-4C99-8B42-765713E7116A}"
+Cache_GenGUID[2][String] = "{02C1BC32-D226-454B-9CE5-0636698D3484}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] = "/C/Users/Isaias/Desktop/Neurosky/build"
+
